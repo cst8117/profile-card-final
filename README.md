@@ -1,2 +1,4 @@
-# profile-card
-This repository contains the starter file for the Profile Card project
+# Profile Card
+
+## Objective
+Use CSS to style the provided HTML for a Profile Card.
